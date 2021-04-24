@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 I'm Git
 
 Hellllllllllll
+=======
+Hey I'm Git
+Hello
+>>>>>>> 2c6ea61a5ac0c176c0e3de1b70b6562511a715a3
